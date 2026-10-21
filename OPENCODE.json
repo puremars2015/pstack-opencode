@@ -1,0 +1,11 @@
+{
+  "name": "pstack-opencode",
+  "source": "https://github.com/puremars2015/pstack-codex",
+  "source_commit": "f206b655dcfc1f896552a34ad66ce10807892bd0",
+  "source_version": "0.1.2",
+  "license": "MIT",
+  "adaptation": "Native OpenCode skills, slash metadata, explicit invocation policy, Task delegation, and OpenCode-specific workflow preferences.",
+  "tested_opencode": "1.18.23",
+  "skills": 55,
+  "playbooks": 23
+}
